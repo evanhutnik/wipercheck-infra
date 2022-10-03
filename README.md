@@ -7,6 +7,7 @@
   <br>
 </h1>
 <h4 align="center">An API that analyzes your road trip and returns weather conditions along your journey.</h4>
+<br/>
 
 This repo is for the AWS CDK infrastructure of WiperCheck. For the WiperCheck service see [here](https://github.com/evanhutnik/wipercheck-service).
 
